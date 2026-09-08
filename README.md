@@ -1,6 +1,8 @@
 <img width="800" height="501" alt="ezgif-61081cc9346f2b51 (1)" src="https://github.com/user-attachments/assets/5eae2466-6cdf-46d5-a24b-d4e457ac9939" />
+<img width="800" height="501" alt="ezgif-63e4e539085b8ecf" src="https://github.com/user-attachments/assets/55ffff23-1273-4c30-9baa-9cfdceeb92c2" />
+<img width="800" height="501" alt="ezgif-6282deef8d9217d6" src="https://github.com/user-attachments/assets/4ff4ebcc-e940-4879-aa70-848cdc5d5c39" />
 <img width="800" height="501" alt="ezgif-64ed3ddfefa50166 (1)" src="https://github.com/user-attachments/assets/585fb6a8-3325-4bf5-8a95-2519ec5b3e9a" />
-<img width="800" height="501" alt="ezgif-639ed8ac1d32c42e (1)" src="https://github.com/user-attachments/assets/972aa9fd-f0e4-496a-abc5-7f120350673f" />
+
 
 ### 🎮 TINY RASHED — Pre-Alpha 1.0 (Build Submission)
 
